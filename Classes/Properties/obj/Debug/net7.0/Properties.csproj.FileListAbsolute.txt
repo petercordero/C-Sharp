@@ -1,0 +1,14 @@
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\bin\Debug\net7.0\Properties.exe
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\bin\Debug\net7.0\Properties.deps.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\bin\Debug\net7.0\Properties.runtimeconfig.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\bin\Debug\net7.0\Properties.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\bin\Debug\net7.0\Properties.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.AssemblyInfoInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.AssemblyInfo.cs
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\refint\Properties.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\Properties.genruntimeconfig.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Properties\obj\Debug\net7.0\ref\Properties.dll

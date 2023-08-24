@@ -1,0 +1,14 @@
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.exe
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.deps.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\refint\ProgChallengeStart.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.genruntimeconfig.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ref\ProgChallengeStart.dll

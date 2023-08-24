@@ -1,0 +1,15 @@
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\refint\Builder.dll
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+C:\Users\peter\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\ref\Builder.dll
